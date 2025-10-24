@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pen",
+      "price": 15.99,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pimNL4SmCm2PRAUKct1TLfdXYp3m-aleVg&s",
+      "shortDescription": "Smooth-writing everyday pen.",
+      "longDescription": "A reliable ballpoint pen that writes effortlessly on most surfaces. Perfect for school, office, or home use, with a comfortable grip and long-lasting ink.",
+      "quantity": 200,
+      "category": "Writing instruments"
+    },
+    {
+      "id": 2,
+      "name": "Pencil",
+      "price": 14.99,
+      "thumbnail": "https://myonlinestationery.co.za/wp-content/uploads/2019/03/FIL0054a.png",
+      "shortDescription": "Classic HB pencil for writing and sketching.",
+      "longDescription": "A durable HB pencil ideal for writing, sketching, and note-taking. Made with high-quality wood and a break-resistant graphite core for smooth results.",
+      "quantity": 180,
+      "category": "Writing instruments"
+    },
+    {
+      "id": 3,
+      "name": "Notebook",
+      "price": 39.99,
+      "thumbnail": "https://m.media-amazon.com/images/I/712JwS6qE4L._UF1000,1000_QL80_.jpg",
+      "shortDescription": "Compact notebook for daily notes.",
+      "longDescription": "A spiral-bound notebook with lined pages and a sturdy cover. Great for journaling, planning, or class notes. Lightweight and easy to carry.",
+      "quantity": 160,
+      "category": "Notebook and paper"
+    },
+    {
+      "id": 4,
+      "name": "Sticky Notes",
+      "price": 29.99,
+      "thumbnail": "https://m.media-amazon.com/images/I/71q9Q0hHtaL.jpg",
+      "shortDescription": "Easy-peel sticky notes for reminders.",
+      "longDescription": "These sticky notes adhere firmly and remove cleanly, making them ideal for reminders, quick notes, or organizing your workspace.",
+      "quantity": 220,
+      "category": "Notebook and paper"
+    },
+    {
+      "id": 5,
+      "name": "Paint Set",
+      "price": 199.99,
+      "thumbnail": "https://artsavingsclub.co.za/wp-content/uploads/2023/08/mont-marte-acrylic-paint-sets-jpg.webp",
+      "shortDescription": "Vibrant watercolour paint set for artists.",
+      "longDescription": "A high-quality watercolour paint set with rich pigments that blend easily. Ideal for painting, creative projects, and professional art use.",
+      "quantity": 60,
+      "category": "Arts and crafts supplies"
+    },
+    {
+      "id": 6,
+      "name": "Craft Paper",
+      "price": 49.99,
+      "thumbnail": "https://m.media-amazon.com/images/I/81zNd38e00L._AC_SX679_.jpg",
+      "shortDescription": "Smooth craft paper for creative projects.",
+      "longDescription": "Premium-quality craft paper suitable for school work, scrapbooking, and various art projects. Works well with pencils, paints, and markers.",
+      "quantity": 100,
+      "category": "Arts and crafts supplies"
+    },
+    {
+      "id": 7,
+      "name": "Desk Organizer",
+      "price": 119.99,
+      "thumbnail": "https://i5.walmartimages.com/seo/Deli-Mesh-Desktop-Organizer-Office-Supplies-7-Compartments-Black_e6b8fc9a-d065-403f-9bee-eccae7c3d227.aced616e7e7604f8fe107a52b82cf91d.jpeg",
+      "shortDescription": "Compact desk organizer for stationery.",
+      "longDescription": "Keep your workspace neat with this practical desk organizer. Designed to hold pens, clips, and small office essentials within easy reach.",
+      "quantity": 75,
+      "category": "Storage and organisation"
+    },
+    {
+      "id": 8,
+      "name": "Filing Box",
+      "price": 179.99,
+      "thumbnail": "https://www.supplywise.co.za/images/thumbs/0047595_a4-solid-plastic-filing-container-32-x-10-x-22-cm-colour-options-pack-of-20-01cspc_650.jpeg",
+      "shortDescription": "Durable box for document storage.",
+      "longDescription": "A strong, stackable filing box designed to protect and organize important papers and files. Ideal for both office and home storage.",
+      "quantity": 50,
+      "category": "Storage and organisation"
+    },
+    {
+      "id": 9,
+      "name": "Stapler",
+      "price": 69.99,
+      "thumbnail": "https://zululander.co.za/wp-content/uploads/2024/11/STAPLER-425P-RESIZED.jpg",
+      "shortDescription": "Durable stapler for everyday use.",
+      "longDescription": "A compact, reliable stapler that binds up to 20 sheets cleanly. Perfect for home, school, or office organization tasks.",
+      "quantity": 110,
+      "category": "Office essentials"
+    },
+    {
+      "id": 10,
+      "name": "Correction Tape",
+      "price": 29.99,
+      "thumbnail": "https://atlas-content-cdn.pixelsquid.com/stock-images/bic-mini-correction-tape-fluid-zeLO9wF-600.jpg",
+      "shortDescription": "Instant dry correction tape.",
+      "longDescription": "Smooth-gliding correction tape that covers mistakes instantly without smudging. Ideal for quick corrections in notebooks or documents.",
+      "quantity": 150,
+      "category": "Office essentials"
+    },
+    {
+      "id": 11,
+      "name": "Whiteboard Marker",
+      "price": 2499,
+      "thumbnail": "https://m.media-amazon.com/images/I/61S58C7UaEL.jpg",
+      "shortDescription": "Low-odour whiteboard marker.",
+      "longDescription": "High-quality whiteboard marker with vivid ink that erases easily. Perfect for classrooms, meetings, or planning boards.",
+      "quantity": 95,
+      "category": "Writing instruments"
+    },
+    {
+      "id": 12,
+      "name": "Desk Calendar",
+      "price": 29.99,
+      "thumbnail": "https://img.fruugo.com/product/4/21/2201567214_max.jpg",
+      "shortDescription": "Stand-up calendar for your workspace.",
+      "longDescription": "Plan your year with this elegant desk calendar featuring clear monthly pages and space for daily notes and reminders.",
+      "quantity": 90,
+      "category": "Office essentials"
+    },
+    {
+    "id": 13,
+    "name": "Highlighter Set",
+    "price": 59.99,
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjh_EeAXwIVh9QERVnHoFaG_ldG9vRc-F3qMB0_TGkN58-F0JH-D75Gs9GWWS97kzyENTmWzTR0vIuW3URdQtW6Gr2Tf92YkFBow8jAPZHtpgoQNBeM2z2pNjTlR3Cqjq9&usqp=CAc",
+    "shortDescription": "Bright highlighters for notes and documents.",
+    "longDescription": "Set of 6 vibrant highlighters with smooth ink flow. Perfect for emphasizing important text in books, notebooks, or documents.",
+    "quantity": 120,
+    "category": "Writing instruments"
+  },
+  {
+    "id": 14,
+    "name": "Glue Stick",
+    "price": 19.99,
+    "thumbnail": "https://stationerynet.co.za/cdn/shop/products/Pritt43g.jpg?v=1639399573",
+    "shortDescription": "Strong adhesive glue stick.",
+    "longDescription": "Non-toxic glue stick ideal for paper, card, and craft projects. Dries clear and provides a strong, long-lasting bond.",
+    "quantity": 200,
+    "category": "Arts and crafts supplies"
+  },
+  {
+    "id": 15,
+    "name": "Scissors",
+    "price": 49.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/21Rh8nphDcL._AC_QL70_ML2_.jpg",
+    "shortDescription": "Sharp scissors for cutting paper and crafts.",
+    "longDescription": "Stainless steel scissors with ergonomic handles. Perfect for school, office, or craft use.",
+    "quantity": 150,
+    "category": "Arts and crafts supplies"
+  },
+  {
+    "id": 16,
+    "name": "Eraser",
+    "price": 9.99,
+    "thumbnail": "https://mcsofficesupplies.co.za/image/cache/catalog/0-2023/Staedtler/Staedtler-Tradition-Eraser-Large-320x320w.jpg",
+    "shortDescription": "Soft eraser for pencil marks.",
+    "longDescription": "High-quality, non-smudging eraser that removes pencil marks cleanly. Essential for students and artists.",
+    "quantity": 300,
+    "category": "Writing instruments"
+  },
+  {
+    "id": 17,
+    "name": "Ruler",
+    "price": 19.99,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81-bQ2JJwQL.jpg",
+    "shortDescription": "Durable 30cm ruler.",
+    "longDescription": "Transparent plastic ruler with clear markings in cm and inches. Ideal for drawing, measuring, and school projects.",
+    "quantity": 180,
+    "category": "Writing instruments"
+  },
+  {
+    "id": 18,
+    "name": "Paper Clips",
+    "price": 14.99,
+    "thumbnail": "https://tiimg.tistatic.com/fp/1/008/484/colored-plastic-paper-clips-for-office-school-college-use-687.jpg",
+    "shortDescription": "Box of 100 paper clips.",
+    "longDescription": "Standard metal paper clips perfect for organizing papers, documents, and office work.",
+    "quantity": 500,
+    "category": "Office essentials"
+  },
+  {
+    "id": 19,
+    "name": "Binder",
+    "price": 99.99,
+    "thumbnail": "https://parkavenue.co.za/wp-content/uploads/2022/11/cached_1280x0_ARC-3737.png",
+    "shortDescription": "3-ring binder for organizing documents.",
+    "longDescription": "Durable binder with strong rings and a clear cover sleeve. Keeps reports, notes, and documents neatly organized.",
+    "quantity": 80,
+    "category": "Storage and organisation"
+  },
+  {
+    "id": 20,
+    "name": "Marker Set",
+    "price": 129.99,
+    "thumbnail": "https://brushandcanvas.co.za/cdn/shop/files/siproduct-50000000000236-10000000003300-b4ac8406ef27d8b1dadf5b870f16d682aa45f2b0_542x542.png?v=1731331910",
+    "shortDescription": "Set of colorful markers for art projects.",
+    "longDescription": "12 vibrant markers with smooth, long-lasting ink. Perfect for drawing, coloring, and school projects.",
+    "quantity": 140,
+    "category": "Arts and crafts supplies"
+  },
+  {
+    "id": 21,
+    "name": "Desk Lamp",
+    "price": 299.99,
+    "thumbnail": "https://www.liteglo.co.za/wp-content/uploads/2019/03/TL053-BLACK.jpg",
+    "shortDescription": "LED desk lamp with adjustable brightness.",
+    "longDescription": "Stylish and energy-efficient LED desk lamp. Features adjustable angles and multiple brightness levels for reading and study.",
+    "quantity": 60,
+    "category": "Office essentials"
+  },
+  {
+    "id": 22,
+    "name": "Clipboard",
+    "price": 39.99,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5yavS_JCO07bd9tq7ZORKjyDwABTfgQBAg&s",
+    "shortDescription": "Portable clipboard for writing on the go.",
+    "longDescription": "Lightweight clipboard made from durable materials. Ideal for students, office use, or outdoor work.",
+    "quantity": 100,
+    "category": "Office essentials"
+  },
+  {
+    "id": 23,
+    "name": "Whiteboard",
+    "price": 799.99,
+    "thumbnail": "https://officegroup.co.za/wp-content/uploads/2019/07/BD1120.jpg",
+    "shortDescription": "Magnetic whiteboard for notes and meetings.",
+    "longDescription": "Durable magnetic whiteboard with a smooth writing surface. Perfect for classrooms, offices, or home organization.",
+    "quantity": 40,
+    "category": "Office essentials"
+  },
+  {
+    "id": 24,
+    "name": "Sticky Tape",
+    "price": 24.99,
+    "thumbnail": "https://i5.walmartimages.com/seo/3m-2157ss-3-4-X-250-Scotch-Transparent-Tape-2-Count_54aa3c67-1125-4a87-8ef1-731f2dc88adf_1.90617d752f72c4ecbe2822b0bd005271.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "shortDescription": "Transparent adhesive tape for office and crafts.",
+    "longDescription": "Strong and clear adhesive tape suitable for wrapping, sealing, and craft projects. Comes with a dispenser for easy use.",
+    "quantity": 250,
+    "category": "Office essentials"
+  }
+  ]
+}
