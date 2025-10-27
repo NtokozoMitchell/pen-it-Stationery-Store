@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(58, 164, 153);
+    /* box-shadow: 0 0 2px rgb(58, 164, 153); */
+}
+
+.right-side{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-right: 50px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.cart,
+.wishlist {
+    width: 24px;
+    height: auto;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type:none;
+    display: flex;
+    gap: 100px;
+
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: medium;
+
+}
